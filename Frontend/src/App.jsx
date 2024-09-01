@@ -12,6 +12,9 @@ import SignUp from './Pages/Signup';
 // frontend is partially done login page, signup page and home page is done
 // But due to very less time, I am not able to complete the axios and hooks part
 // i.e. integration part of frontend with backend
+// Kindly judge on the partial project
+// Apologies
+// Looking forward for feedback
 
 const App = () => {
   return <>
