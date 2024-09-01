@@ -5,6 +5,14 @@ import Navbar from './Components/Navbar';
 import Login from './Pages/Login';
 import SignUp from './Pages/Signup';
 
+// Welcome to my project for technical assignment
+// As per given problem Statement, I have made the project
+// Backend is fully functional with all types of data retrieval and storage
+// Cross checked all the api calls in Postman
+// frontend is partially done login page, signup page and home page is done
+// But due to very less time, I am not able to complete the axios and hooks part
+// i.e. integration part of frontend with backend
+
 const App = () => {
   return <>
     <Router>
